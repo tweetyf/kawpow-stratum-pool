@@ -26,7 +26,9 @@
   "bugs": {
     "url": "https://github.com/RavenCommunity/kawpow-stratum-pool/issues"
   },
-  "bundleDependencies": false,
+  "bundleDependencies": {
+  "logger": "0.0.1"
+  },
   "contributors": [
     {
       "name": "Jeremy Anderson"
